@@ -366,13 +366,5 @@ h1, .i {
   }
 }
 
-@media (max-width: 480px) {
-  .order-two {
-  order:1;
 
-}
-.order-one {
-  order: 2;
-}
-}
 
