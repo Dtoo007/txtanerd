@@ -46,6 +46,7 @@ h1, .i {
   font-size: 120px;
   line-height: 1.0;
   color: #EC594D;
+  margin-bottom: 32px;
 }
 
 .hero {
@@ -120,6 +121,7 @@ h1, .i {
   padding: 20px;
   margin-bottom: 20px;
   display: flex;
+  justify-content: space-between;
 }
 
 .faqs-body h6{
@@ -184,12 +186,11 @@ h1, .i {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 0;
 }
 
 .content-center {
   display: flex;
-  justify-content: space-between;
+
   align-items: center;
   margin: 0px
 }
@@ -207,10 +208,7 @@ h1, .i {
   justify-content: space-between;
 }
 
-.content-center img {
-  padding-right: 0px;
-  justify-content: space-between;
-}
+
 
 .article i {
   margin-top: 50px;
@@ -298,11 +296,14 @@ h1, .i {
 }
 
 .icon i {
-  margin: 5px;
-  padding: 8px;
+  margin: 8px;
+  padding-top: 8px;
   font-size: 12px;
-  border-radius: 50%;
+  border-radius: 100%;
   border: 1px #EC594D solid;
+  width: 32px;
+  height: 32px;
+  text-align: center;
 }
 
 .terms a {
@@ -323,14 +324,13 @@ h1, .i {
   justify-content: space-between;
 }
 
-.order-two {
+/*.order-two {
   order:1;
-  flex-direction: start;
+
 }
 .order-one {
   order: 2;
-  flex-direction: end;
-}
+}*/
 
 @media (max-width: 768px) {
   .hero {
