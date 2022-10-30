@@ -366,7 +366,7 @@ h1, .i {
   }
 }
 
-@media (max-width: 470px) {
+@media (max-width: 500px) {
   .order-two {
   order:1;
 
