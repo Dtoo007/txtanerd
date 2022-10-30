@@ -161,13 +161,6 @@ h1, .i {
   font-weight: bold;
 }
 
-.content-body-center h2 {
-  color: #EC594D;
-   font-size: 32px;
-  font-family: montserrat sans-serif;
-  font-style: normal;
-  font-weight: bold;
-}
 
 .content p {
   line-height: 1.6;
@@ -175,11 +168,6 @@ h1, .i {
   font-size: 18px;
 }
 
-.content-center p {
-  line-height: 1.6;
-  width: 80%;
-  font-size: 18px;
-}
 
 
 .content {
@@ -188,12 +176,6 @@ h1, .i {
   align-items: center;
 }
 
-.content-center {
-  display: flex;
-
-  align-items: center;
-  margin: 0px
-}
 
 .content-body-center {
   padding-top: 50px;
@@ -203,10 +185,6 @@ h1, .i {
   padding-top: 50px;
 }
 
-.content img {
-  padding-left: 0px;
-  justify-content: space-between;
-}
 
 
 
