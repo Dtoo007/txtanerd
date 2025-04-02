@@ -1,0 +1,22 @@
+<svg width="243" height="269" viewBox="0 0 243 269" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="83" width="160" height="259" rx="14" fill="#FBDEDB"/>
+<circle cx="126" cy="52" r="32.5" fill="#FBDEDB" stroke="#A2190D" stroke-width="5"/>
+<path d="M123.253 52.66L126.473 41.62L129.831 52.66H123.253ZM131.993 58.502L134.799 66H141.883L130.153 34.306H122.839L111.063 66H118.239L121.045 58.502H131.993Z" fill="#A2190D"/>
+<rect x="91" y="104" width="101" height="16" rx="8" fill="black"/>
+<rect x="91" y="137" width="101" height="16" rx="8" fill="black"/>
+<rect x="91" y="170" width="101" height="16" rx="8" fill="black"/>
+<rect x="91" y="215" width="142" height="26" rx="4" fill="#EC594D"/>
+<path d="M208 110.87L216.088 119L233 102" stroke="#EC594D" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M208 143.87L216.088 152L233 135" stroke="#EC594D" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M208 176.87L216.088 185L233 168" stroke="#EC594D" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M36.5453 16.449V1H12.1816V16.449C15.7661 14.375 19.9244 13.1818 24.3635 13.1818C28.8025 13.1818 32.9608 14.375 36.5453 16.449Z" fill="black"/>
+<path d="M36.5455 16.449C32.961 14.3751 28.8027 13.1819 24.3636 13.1819C19.9246 13.1819 15.7663 14.3751 12.1818 16.449C4.90135 20.6627 0 28.5291 0 37.5455H48.7273C48.7273 28.5291 43.8259 20.6627 36.5455 16.449Z" fill="#EC594D"/>
+<path d="M48.7269 55.8182H24.3633V128.909H48.7269V55.8182Z" fill="#EC594D"/>
+<path d="M24.3636 55.8182H0V128.909H24.3636V55.8182Z" fill="#FFC6C1"/>
+<path d="M24.3633 232.455H42.636L48.7269 147.182H24.3633V232.455Z" fill="#EC594D"/>
+<path d="M24.3636 232.455V147.182H0L6.09091 232.455H24.3636Z" fill="#FFC6C1"/>
+<path d="M48.7273 55.8183V37.5455H0V55.8183H24.3636H48.7273Z" fill="#A2190D"/>
+<path d="M0 128.909V147.182H24.3636H48.7273V128.909H24.3636H0Z" fill="#A2190D"/>
+<path d="M48.7275 37.5455V55.8183V128.909H67.0003V37.5455H48.7275Z" fill="black"/>
+<path d="M24.3635 232.455H6.09082L15.2272 256.818V259.864C15.2272 264.909 19.3178 269 24.3635 269C29.4093 269 33.4999 264.909 33.4999 259.864V256.818L42.6363 232.455H24.3635Z" fill="black"/>
+</svg>
